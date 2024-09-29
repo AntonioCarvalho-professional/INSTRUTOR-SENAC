@@ -51,16 +51,15 @@
    -	Experimente também, criar gráficos dinâmicos a partir da tabela dinâmica para visualizações mais claras.
 
 ### Comando de movimentos básicos de uso constante:
-   - Ctrl + ↓  = 
-   - Ctrl + → =
-   - Ctrl + ↑ =
-   - Ctrl + ← =
-   - Ctrl +Shift+ ↓  = 
-   - Ctrl + Shift+ → =
-   - Ctrl + Shift+ ↑ =
-   - Ctrl + Shift+ ← =
 
-
+   - **Ctrl + ↓:** Move o cursor para a última célula preenchida na coluna atual.
+   - **Ctrl + →:** Move o cursor para a última célula preenchida na linha atual.
+   - **Ctrl + ↑:** Move o cursor para a primeira célula preenchida na coluna atual.
+   - **Ctrl + ←:** Move o cursor para a primeira célula preenchida na linha atual.
+   - **Ctrl + Shift + ↓:** Seleciona todas as células da posição atual até a última célula preenchida na coluna.
+   - **Ctrl + Shift + →:** Seleciona todas as células da posição atual até a última célula preenchida na linha.
+   - **Ctrl + Shift + ↑:** Seleciona todas as células da posição atual até a primeira célula preenchida na coluna.
+   - **Ctrl + Shift + ←:** Seleciona todas as células da posição atual até a primeira célula preenchida na linha.
 
 
 
